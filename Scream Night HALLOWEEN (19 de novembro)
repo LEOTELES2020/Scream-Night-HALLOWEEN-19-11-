@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scream Night HALLOWEEN 👻🐦‍🔥</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1b1b1b;
+            color: #f5f5f5;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+            max-width: 500px;
+            background-color: #262626;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.6);
+        }
+        h1 {
+            color: #ff4b4b;
+            margin-bottom: 10px;
+            font-size: 1.8em;
+        }
+        .section-title {
+            color: #ffcc00;
+            margin: 10px 0;
+            font-weight: bold;
+        }
+        .emoji {
+            font-size: 1.2em;
+            vertical-align: middle;
+        }
+        a {
+            color: #4da8da;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Scream Night HALLOWEEN 👻🐦‍🔥</h1>
+
+        <p>📅 <strong>Data:</strong> 19/11<br>
+        📍 <strong>Local:</strong> Será enviado 3 dias antes!<br>
+        🕑 <strong>Horário:</strong> 21h30</p>
+
+        <div class="section-title">🎟️ Ingressos (1° LOTE - APROVEITE ANTES DO PRÓXIMO)</div>
+        <p>🚹 Homens: R$25 | 🚺 Mulheres: R$20<br>
+        📲 <strong>PIX:</strong> 61 98373-0919 (Antônio Monteiro - Nubank)</p>
+        <p>Envie o comprovante com seu nome e sobrenome para Antônio, Arthur ou Teles</p>
+
+        <div class="section-title">👕 Traje:</div>
+        <p>Fantasia ou All Black (se não estiver nos padrões de vestimento, não entra!)</p>
+
+        <div class="section-title">🍸 Open Bar:</div>
+        <p>💧 Água | ⚡ Energético | 🍸 Vodkas e outros | 🥤 Refri e Suco</p>
+
+        <div class="section-title">🎶 Música:</div>
+        <p>DJ tocando os melhores hits da noite!</p>
+
+        <div class="section-title">🚫 Regras Importantes</div>
+        <ul style="list-style-type: none; padding: 0;">
+            <li>Sem drogas ilícitas</li>
+            <li>Proibido objetos cortantes</li>
+            <li>Brigas resultarão em expulsão</li>
+            <li>Somente para quem estiver na lista!</li>
+        </ul>
+
+        <p>⏰ <strong>CORRE!</strong> ⏰<br>
+        Garanta já sua entrada, pois o lote vai virar em breve e as vagas são limitadas!</p>
+
+        <p>⚠️ Sem reembolso | 👮‍♂️ Revista na entrada<br>
+        A festa não se responsabiliza por itens perdidos</p>
+
+        <p>Marque na agenda e vem fazer parte dessa noite épica com a gente!</p>
+        
+        <p><a href="https://chat.whatsapp.com/DsJePF8usAOJPkj8nLqral" target="_blank">Link do WhatsApp</a></p>
+    </div>
+</body>
+</html>
